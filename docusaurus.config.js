@@ -77,6 +77,11 @@ const config = {
       },
       navbar: {
         title: '',
+        logo: {
+          alt: 'TechinSol Tools',
+          src: 'img/logo.svg',
+          href: 'https://tools.techinsol.io',
+        },
         items: [
         
           {

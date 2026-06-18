@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 36" width="160" height="36">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Sora:wght@700&amp;display=swap');
-    text { font-family: 'Sora', Arial, sans-serif; font-weight: 700; font-size: 22px; }
-  </style>
-  <text y="26">
-    <tspan fill="#000000">Techin</tspan><tspan fill="#FF5C00">Sol</tspan>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 36" width="180" height="36">
+  <text y="26" font-family="Sora, Arial, sans-serif" font-weight="700" font-size="22">
+    <tspan fill="#000000">Techin</tspan><tspan fill="#FF5C00">Sol</tspan><tspan fill="#999999" font-family="Inter, Arial, sans-serif" font-weight="400" font-size="14" dx="6">Tools</tspan>
   </text>
 </svg>
