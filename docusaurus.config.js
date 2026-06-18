@@ -80,6 +80,7 @@ const config = {
         logo: {
           alt: 'TechinSol Tools',
           src: 'img/logo.svg',
+          srcDark: 'img/logo-dark.svg',
           href: 'https://tools.techinsol.io',
         },
         items: [
