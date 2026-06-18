@@ -76,10 +76,10 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        logo: { alt: 'TechinSol', src: 'img/logo.svg' },
+        logo: { alt: 'TechinSol Tools', src: 'img/logo.svg' },
         title: '',
         logo: {
-          alt: 'TechinSol',
+          alt: 'TechinSol Tools',
           src: 'img/logo.svg',
           srcDark: 'img/logo-dark.svg',
           width: 140,
@@ -97,7 +97,7 @@ const config = {
             position: 'left',
           },
           {
-            href: 'https://techinsol.io',
+            href: 'https://tools.techinsol.io',
             label: 'TechinSol.io',
             position: 'right',
           },
@@ -132,7 +132,7 @@ const config = {
           {
             title: 'TechinSol',
             items: [
-              { label: 'Website', href: 'https://techinsol.io' },
+              { label: 'Website', href: 'https://tools.techinsol.io' },
               { label: 'GitHub', href: 'https://github.com/techinsol' },
             ],
           },
