@@ -76,15 +76,9 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        logo: { alt: 'TechinSol Tools', src: 'img/logo.svg' },
         title: '',
-        logo: {
-          alt: 'TechinSol Tools',
-          src: 'img/logo.svg',
-          srcDark: 'img/logo-dark.svg',
-          width: 140,
-        },
         items: [
+        
           {
             type: 'docSidebar',
             sidebarId: 'docsSidebar',
