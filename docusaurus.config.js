@@ -76,6 +76,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
+        logo: { alt: 'TechinSol', src: 'img/logo.svg' },
         title: '',
         logo: {
           alt: 'TechinSol',
