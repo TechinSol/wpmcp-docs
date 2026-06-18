@@ -51,7 +51,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/techinsol/wpmcp-docs/tree/main/',
+          
           showLastUpdateTime: true,
         },
         blog: false,
