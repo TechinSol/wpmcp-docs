@@ -5,7 +5,7 @@ const { themes } = require('prism-react-renderer');
 const config = {
   title: 'WP-MCP',
   tagline: 'Connect Claude & Codex to your WordPress site — no coding required.',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   url: 'https://tools.techinsol.io',
   baseUrl: '/wpmcp/docs/',
   organizationName: 'techinsol',
